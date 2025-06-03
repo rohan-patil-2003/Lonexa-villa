@@ -5,7 +5,7 @@ import Rohit from './assets/Rohit.jpg';
 import Rohan from './assets/Rohan.jpg';
 import Swapnil from './assets/Swapnil.jpg';
 import Omkar from './assets/Omkar.jpg';
-import Hanumant from './assets/HanumantD.jpg';
+import Hanumant from './assets/hanumantD.jpg';
 import Vishwanath from './assets/vishwanath.jpg';
 
 const reviewsData = [
