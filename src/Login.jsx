@@ -15,8 +15,8 @@ function Login() {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-100 to-blue-300">
-      <div className="bg-white p-8 rounded-xl shadow-lg w-full max-w-sm">
+    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-neutral-400 to-slate-900 to-slate-500">
+      <div className="bg-white p-8 rounded-xl shadow--xl/30  w-full max-w-sm">
         <h2 className="text-2xl font-bold mb-6 text-center text-blue-600">Login to Your Account</h2>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
